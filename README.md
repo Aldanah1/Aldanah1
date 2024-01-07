@@ -5,7 +5,7 @@ I'm excited to showcase some of the projects and challenges I completed during m
 Where I improved my data analysis skills and gained practical experience 📊✨.
 
 
-<h2>👨‍💻 Data Analysis Challenges :</h2>
+<h2>👨‍💻 Data Analysis Challenges:</h2>
 
 - <b>SQL Queries</b>
 
