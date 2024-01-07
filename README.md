@@ -9,6 +9,8 @@ Where I improved my data analysis skills and gained practical experience 📊✨
 
 - <b>SQL Queries</b>
 
+  - [SQL Financial Report](https://github.com/Aldanah1/SQL-Financial-Report/tree/main)
+
 
 <!--
 - <b>Full Google Sheets Analysis </b>
