@@ -5,24 +5,23 @@ I'm excited to showcase some of the projects and challenges I completed during m
 Where I improved my data analysis skills and gained practical experience 📊✨.
 
 
-<h2>👨‍💻 Data Analysis Challenges:</h2>
+<h2>👨‍💻 Data Analysis Challenges</h2>
 
-- <b>Financial Report With SQL Queries</b>
+- <b>Financial Report With SQL Queries </b>
 
   - [SQL Financial Report](https://github.com/Aldanah1/SQL-Financial-Report/tree/main)
 
-
-<!--
 - <b>Full Google Sheets Analysis </b>
+   - [Full GS Analysis for Finance Team](https://docs.google.com/spreadsheets/d/1B0P0ZUjMIGN-r8ExJqz0ixb8CJtTo9WNBKxgxpfonu0/edit?usp=sharing)
+  
+<!--
 
-- <b>Python</b>
 
 - <b>Dashboard Projects</b>
 
-- <b>Final Project</b>
 -->
   
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
