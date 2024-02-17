@@ -7,7 +7,7 @@ Where I improved my data analysis skills and gained practical experience 📊✨
 
 <h2>👨‍💻 Data Analysis Challenges</h2>
 
-- <b>Financial Report With SQL Queries </b>
+- <b>Financial Report With SQL  </b>
 
   - [SQL Financial Report](https://github.com/Aldanah1/SQL-Financial-Report/tree/main)
 
