@@ -11,7 +11,7 @@ Where I improved my data analysis skills and gained practical experience 📊✨
 
   - [SQL Financial Report](https://github.com/Aldanah1/SQL-Financial-Report/tree/main)
 
-- <b>Full Google Sheets Analysis </b>
+- <b>Full Google Sheets Business Analysis </b>
     
    - [Full GS Analysis for Inventory management](https://docs.google.com/spreadsheets/d/1DoDcpn1WqO_Ah2jBdKHQrr5MM5L_cQABTWkMph2eIPk/edit?usp=sharing)
 
